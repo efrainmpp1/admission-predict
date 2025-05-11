@@ -111,6 +111,8 @@ Evaluation was done using the original (unbalanced) test data.
 
 A confusion matrix is also generated for visual performance analysis.
 
+![confusion_matrix](./images/confusion_matrix.png)
+
 ---
 
 ## ⚖️ Ethical Considerations
